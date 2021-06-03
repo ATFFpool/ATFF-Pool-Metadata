@@ -1,8 +1,8 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://git.io/JOXW5",
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
+        "url_png_icon_64x64": "https://git.io/JGrIv",
+        "url_png_logo": "https://git.io/JGrkx",
         "location": "Obervogau, Austria",
         "social": {
             "twitter_handle": "AtfFpool",
